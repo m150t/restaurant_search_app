@@ -1,0 +1,21 @@
+{
+{
+  "configurations": [
+    {
+      "name": "Debug Android Expo",
+      "type": "reactnative",
+      "request": "launch",
+      "platform": "android",
+      "target": "simulator",
+      "sourceMaps": true
+    },
+    {
+      "name": "Debug iOS Expo",
+      "type": "reactnative",
+      "request": "launch",
+      "platform": "ios",
+      "target": "simulator",
+      "sourceMaps": true
+    }
+  ]
+}
